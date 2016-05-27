@@ -1,28 +1,31 @@
-== README
+# AECC Public page
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Requisites
 
-Things you may want to cover:
+* Ruby on Rails Version 4.2.3
 
-* Ruby version
+* Ruby Version 2.2.1
 
-* System dependencies
+* All gems in gemfile
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* SQLITE for development environment
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+## Deployment 
+
+For deployment instructions, please speak to the current president or vice-president. 
+
+## Current features
+
+* nil
+
+## To be implemented
+
+* T-shirt/jacket orders
+
+* Member dues
+
+* AECC event promotion
+
+* Ticket handling
+
