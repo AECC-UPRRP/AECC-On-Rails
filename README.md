@@ -17,7 +17,11 @@ For deployment instructions, please speak to the current president or vice-presi
 
 ## Current features
 
-* nil
+* Responsive webpage with bootstrap
+
+* base template structure
+
+* Static pages
 
 ## To be implemented
 
