@@ -32,6 +32,13 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Bootstrap for rails
+gem 'bootstrap-sass', '~> 3.3.5'
+#Font awesome Gem. Remember to include font-awesome-sprockets and font-awesome in your CSS
+gem 'font-awesome-sass'
+
+# Use Puma as the app server
+gem 'puma',           '2.11.1'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
