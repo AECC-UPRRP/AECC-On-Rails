@@ -26,6 +26,8 @@ For deployment instructions, please speak to the current president or vice-presi
 
 * Static pages
 
+* Member registration
+
 ## To be implemented
 
 * T-shirt/jacket orders
